@@ -1,0 +1,24 @@
+{
+  "name": "appstoreconnect_wechatwork",
+  "version": "1.0.0",
+  "description": "appstoreconnect_wechatwork",
+  "licence": "MIT",
+  "main": "poll-itc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LOVELIVELIMITED/AppStoreConnect_WeChatWork.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/LOVELIVELIMITED/AppStoreConnect_WeChatWork/issues"
+  },
+  "homepage": "https://github.com/LOVELIVELIMITED/AppStoreConnect_WeChatWork#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dirty": "^1.1.0",
+    "moment": "^2.24.0"
+  }
+}
